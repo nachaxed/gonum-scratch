@@ -57,3 +57,6 @@ Original code is licensed under the Gonum License found in the LICENSE file. Por
 Code in graph/formats/dot is dual licensed [Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/) and Gonum License, and users are free to choose the license which suits their needs for this code.
 
 The W3C test suites in graph/formats/rdf are distributed under both the [W3C Test Suite License](http://www.w3.org/Consortium/Legal/2008/04-testsuite-license) and the [W3C 3-clause BSD License](http://www.w3.org/Consortium/Legal/2008/03-bsd-license).
+
+
+agrege una linea
